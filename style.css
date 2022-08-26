@@ -29,7 +29,8 @@
  }
 
  header {
-    background-image: linear-gradient(to top, var(--cor5), var(--cor3));
+    background-color: black;
+    /*background-image: linear-gradient(to top, var(--cor5), var(--cor3));*/
     height: 200px;
 
  }
